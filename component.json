@@ -1,0 +1,11 @@
+{
+  "name": "xmlhttprequest",
+  "repo": "component/xmlhttprequest",
+  "version": "0.0.1",
+  "dependencies": {
+    "component/has-cors": "1.0.1"
+  },
+  "scripts": [
+    "index.js"
+  ]
+}
